@@ -1,17 +1,19 @@
 # Projetos de Automação com n8n
 
-Este repositório contém dois projetos usando n8n para automação com inteligência artificial:
+Este repositório contém dois projetos desenvolvidos utilizando o n8n para automação com inteligência artificial:
 
 ## Projetos
 
 ### 1. Chat IA com Wikipedia e Calculadora
 - Usuário acessa um link e conversa com uma IA.
 - Integração com Wikipedia e funções de calculadora.
+- Todas as mensagens enviadas são registradas em uma planilha para documentação.
 - Fluxo salvo em `workflows/chat-ia-wikipedia.json`.
 
 ### 2. IA no WhatsApp
 - IA integrada ao WhatsApp para respostas automáticas.
 - Integrações com Google Sheets para registrar as mensagens.
+- Todas as mensagens enviadas são registradas em uma planilha para documentação.
 - Fluxo salvo em `workflows/ia-whatsapp.json`.
 
 ## Tecnologias usadas
@@ -29,6 +31,6 @@ Este repositório contém dois projetos usando n8n para automação com intelig�
 4. Execute o workflow!
 
 ## Screenshots
-NA PASTA DE IMAGENS 
+Todas estão na pasta de imagens!
 
 ---
