@@ -29,7 +29,6 @@ Este repositório contém dois projetos usando n8n para automação com intelig�
 4. Execute o workflow!
 
 ## Screenshots
-![Chat IA](./imagens/460de42a-b88d-456b-8773-a4cd9b017127.png)
-![WhatsApp IA](./imagens/9ae24400-47db-47b0-b163-3709cbaf9e64.png)
+NA PASTA DE IMAGENS 
 
 ---
